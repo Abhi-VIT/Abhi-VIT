@@ -29,6 +29,24 @@ abhishek = {
 }
 ```
 
+## Highlights in motion
+
+<div align="center">
+
+<img src="./assets/animated-highlights.svg" alt="Animated highlights: TOEHO AI internship, IEEE research, and TCS Digital selection" width="100%" />
+
+</div>
+
+## AI Learning Quest
+
+<div align="center">
+
+<img src="./assets/ai-learning-quest.svg" alt="Animated AI mini-game showing an agent moving from raw data through feature engineering and model training to prediction" width="100%" />
+
+<sub>Watch the agent collect data, learn representations, train a model, and deliver a prediction.</sub>
+
+</div>
+
 ## What I'm working on
 
 - **AI-powered data insights:** extracting and analyzing signals from social media and news sources at TOEHO AI.
@@ -77,6 +95,15 @@ Published at the **2025 IEEE 5th International Conference on Artificial Intellig
 
 <div align="center">
 
+<img src="./assets/animated-skills.svg" alt="Animated overview of Abhishek's modeling, data, and deployment skills" width="100%" />
+
+<br /><br />
+
+<details>
+<summary><strong>Explore the full stack</strong></summary>
+
+<br />
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,r,java,mysql&amp;theme=dark" alt="Python, R, Java, and SQL" />
@@ -92,6 +119,8 @@ Published at the **2025 IEEE 5th International Conference on Artificial Intellig
 <br />
 
 `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Tableau` · `Power BI` · `Streamlit` · `Neo4j` · `Jupyter` · `OCI`
+
+</details>
 
 </div>
 
