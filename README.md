@@ -1,49 +1,135 @@
 <div align="center">
 
-  <h2>About</h2>
+<img src="./assets/profile-header.svg" alt="Abhishek Kumar - Data Scientist and Machine Learning Engineer" width="100%" />
 
-  <p>
-    Passionate Data Science student with expertise in analytics and predictive model building. Technical proficiency in Python, R, SQL, and machine learning libraries including sci-kit-learn, TensorFlow, PyTorch, and Keras. Experienced in data interpretation and problem-solving with a strong ability to adapt to new environments and work effectively in teams.
-  </p>
+<br />
 
-  <p>
-    <a href="tel:(+91) 7888873321">(+91) 7888873321</a> •
-    <a href="mailto:abhishek.k.jalandhar@gmail.com">abhishek.k.jalandhar@gmail.com</a>
-  </p>
+<a href="https://abhi-vit.github.io/Profile/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abhipy/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abhishek.k.jalandhar@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/ft31DEgRSt/"><img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode" /></a>
+<a href="https://raw.githubusercontent.com/Abhi-VIT/Profile/main/Resume.pdf"><img src="https://img.shields.io/badge/Résumé-334155?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="Résumé" /></a>
 
-  <p>
-    <a href="https://abhi-vit.github.io/Profile"><strong>🌐 Visit My Website</strong></a>
-  </p>
+<br /><br />
 
-  <p>
-    <a href="https://www.linkedin.com/in/abhipy/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Abhi-VIT" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+<samp>M.Sc. Data Science @ VIT-AP · IEEE Published Researcher · TCS Digital (AI Cloud) Selectee</samp>
 
-  <h2>Skills</h2>
+</div>
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/R_Programming-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Programming" />
-    <img src="https://img.shields.io/badge/SQL-Advanced-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/Machine_Learning-Advanced-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-    <img src="https://img.shields.io/badge/Deep_Learning-Advanced-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning" />
-    <img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-    <img src="https://img.shields.io/badge/PowerBI-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
-    <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Neo4j-Intermediate-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-    <img src="https://img.shields.io/badge/Web_Development-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
-    <img src="https://img.shields.io/badge/Statistics-Advanced-blue?style=for-the-badge" alt="Statistics" />
-    <img src="https://img.shields.io/badge/Matlab-Intermediate-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" />
-    <img src="https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  </p>
+## About me
+
+I build end-to-end data products - from cleaning messy inputs and engineering features to training models, designing analytics, and shipping usable interfaces. My work sits at the intersection of **machine learning**, **deep learning**, **knowledge graphs**, and **decision-focused analytics**.
+
+```python
+abhishek = {
+    "role": "AI-Powered Data Insights Intern @ TOEHO AI",
+    "building": ["ML platforms", "knowledge graphs", "analytics dashboards"],
+    "exploring": ["LLMs", "RAG pipelines", "production ML"],
+    "open_to": "Data Science and ML Engineering opportunities",
+}
+```
+
+## What I'm working on
+
+- **AI-powered data insights:** extracting and analyzing signals from social media and news sources at TOEHO AI.
+- **No-code machine learning:** making data cleaning, feature engineering, visualization, and model training more accessible.
+- **Connected knowledge:** combining web crawling, graph architecture, and relevance ranking for guided learning.
+- **Applied research:** studying how learning rates, optimizers, and activation functions interact during CNN training.
+
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕸️ <a href="https://github.com/Abhi-VIT/Graph-Net">Graph Net</a></h3>
+      <p>An intelligent knowledge-graph application that combines web search, NLP, Gemini-powered summaries, and interactive concept relationships.</p>
+      <p><code>Python</code> <code>Django</code> <code>NetworkX</code> <code>Gemini</code> <code>NLP</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/Abhi-VIT/ARG-data-and-Modeling">ARG Data &amp; Modeling</a></h3>
+      <p>A no-code data science platform with drag-and-drop workflows for preprocessing, visualization, feature engineering, and model training.</p>
+      <p><code>TensorFlow</code> <code>PyTorch</code> <code>Pandas</code> <code>NumPy</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 <a href="https://github.com/Abhi-VIT/Drug-module-generation">Molecular Generation</a></h3>
+      <p>A graph-based generative system using a variational autoencoder and relational graph convolutions to generate valid drug-like molecules.</p>
+      <p><code>VAE</code> <code>R-GCN</code> <code>Deep Learning</code> <code>ZINC</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/Abhi-VIT/Healthcare-Appointment-App">Healthcare Appointment App</a></h3>
+      <p>A patient-centered booking experience redesigned around clearer navigation, stronger calls to action, and improved accessibility.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>UX</code> <code>Accessibility</code></p>
+    </td>
+  </tr>
+</table>
+
+## Research spotlight
+
+> **Investigating the Synergistic Effects of Learning Rate, Optimizer, and Activation Function on Convolutional Neural Network Training**
+
+Published at the **2025 IEEE 5th International Conference on Artificial Intelligence and Signal Processing**. The work compares optimizer and activation-function combinations with dynamic learning-rate tuning to study CNN convergence, stability, and generalization.
+
+<a href="https://ieeexplore.ieee.org/document/11396244"><img src="https://img.shields.io/badge/Read_the_paper-00629B?style=for-the-badge&amp;logo=ieee&amp;logoColor=white" alt="Read the IEEE paper" /></a>
+
+## Technical toolkit
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,r,java,mysql&amp;theme=dark" alt="Python, R, Java, and SQL" />
+
+**Machine learning & data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&amp;theme=dark" alt="TensorFlow, PyTorch, Scikit-learn, and OpenCV" />
+
+**Platforms & engineering**
+
+<img src="https://skillicons.dev/icons?i=aws,mongodb,git,github,django&amp;theme=dark" alt="AWS, MongoDB, Git, GitHub, and Django" />
+
+<br />
+
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Tableau` · `Power BI` · `Streamlit` · `Neo4j` · `Jupyter` · `OCI`
+
+</div>
+
+## Milestones
+
+| | Highlight |
+|---|---|
+| 🎓 | **M.Sc. Data Science**, Vellore Institute of Technology - AP (2024-2026) |
+| 🏆 | Qualified TCS NQT aptitude and coding rounds; selected for **TCS Digital - AI Cloud** |
+| ☁️ | **Oracle Cloud Infrastructure 2025 Generative AI Professional** |
+| 📊 | **AWS Cloud Essentials** and Accenture Data Analytics &amp; Visualization simulation |
+| 🧠 | Advanced Machine Learning certification from **NIT Warangal** |
+
+## GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhi-VIT&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=transparent&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;icon_color=818CF8" alt="Abhishek's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-VIT&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=38BDF8&amp;text_color=94A3B8&amp;langs_count=6" alt="Abhishek's most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Abhi-VIT&amp;hide_border=true&amp;background=00000000&amp;ring=38BDF8&amp;fire=C084FC&amp;currStreakLabel=818CF8&amp;sideLabels=94A3B8&amp;dates=64748B&amp;currStreakNum=E2E8F0&amp;sideNums=E2E8F0" alt="Abhishek's GitHub contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something useful with data.
+
+I'm open to **Data Science**, **Machine Learning**, and **Analytics** opportunities, as well as research and open-source collaborations.
+
+<a href="mailto:abhishek.k.jalandhar@gmail.com"><strong>Start a conversation →</strong></a>
+
+<br /><br />
+
+<sub>Designed with curiosity, evidence, and a bias toward building.</sub>
 
 </div>
