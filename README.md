@@ -29,6 +29,8 @@ abhishek = {
 }
 ```
 
+<img src="./assets/neural-divider.svg" alt="" width="100%" />
+
 ## Highlights in motion
 
 <div align="center">
@@ -53,6 +55,16 @@ abhishek = {
 - **No-code machine learning:** making data cleaning, feature engineering, visualization, and model training more accessible.
 - **Connected knowledge:** combining web crawling, graph architecture, and relevance ranking for guided learning.
 - **Applied research:** studying how learning rates, optimizers, and activation functions interact during CNN training.
+
+## Live ML Lab
+
+<div align="center">
+
+<img src="./assets/live-ml-lab.svg" alt="Animated machine learning terminal with a training loop, rising accuracy, and decreasing loss" width="100%" />
+
+<sub>A continuously looping model-training run - from data loading to the best saved checkpoint.</sub>
+
+</div>
 
 ## Featured work
 
@@ -82,6 +94,8 @@ abhishek = {
     </td>
   </tr>
 </table>
+
+<img src="./assets/neural-divider.svg" alt="" width="100%" />
 
 ## Research spotlight
 
